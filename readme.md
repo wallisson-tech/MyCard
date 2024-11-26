@@ -4,6 +4,8 @@ Cartão pessoal WLS.
 
 
 Acesso app:
+Link: 🌐
+https://my-card-tech.vercel.app/
 
 Web: #
 iOS: App Store
