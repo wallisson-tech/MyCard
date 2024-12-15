@@ -140,3 +140,10 @@ img {
     flex: 1 0 15rem;
     max-width: 100%;
 }
+
+footer{
+    color: #00adb5;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+}
