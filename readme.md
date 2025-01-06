@@ -1,7 +1,6 @@
 My Card
 
-Cartão pessoal WLS.
-
+Cartão pessoal EngWall.
 
 Acesso app:
 Link: 🌐
@@ -14,9 +13,6 @@ Development Resources
 
 Aplicação básica com HTML, CSS e JavaScript.
 
-
-
 Contributions
 
 wallisson-tech
-
