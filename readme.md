@@ -1,6 +1,6 @@
 My Card
 
-Cartão pessoal EngWall.
+Cartão pessoal Wallisson.
 
 Acesso app:
 Link: 🌐
