@@ -1,6 +1,6 @@
 My Card
 
-Cartão pessoal Wallisson.
+Cartão pessoal.
 
 Acesso app:
 Link: 🌐
